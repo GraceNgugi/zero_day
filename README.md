@@ -1,3 +1,3 @@
 ## Zero_day Project
-**This is a documentation for git and gitHub project**
+**This is a project for git and gitHub project**
 Hello Git.
